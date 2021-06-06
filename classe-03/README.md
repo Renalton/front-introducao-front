@@ -2,38 +2,32 @@
 
 # Exercício de classe 🏫
 
-## Lista de supermercado
+## Top 3 filmes favoritos
 
 Neste exercício seu dever é criar uma página HTML válida com os seguintes elementos em ordem:
 
 - **título**
+  - "Meu top 3 filmes favoritos"
 - **sub-título**
-- **lista**
-- **item da lista**
-- **item da lista**
-- **item da lista**
-- **item da lista**
+  - "1." **+ O título do seu top 1 filme**
+- **parágrafo**
+  - "Sinopse: " **+ A sinopse do seu top 1 filme**
 - **sub-título**
-- **lista**
-- **item da lista**
-- **item da lista**
+  - "2." **+ O título do seu top 2 filme**
+- **parágrafo**
+  - "Sinopse: " **+ A sinopse do seu top 2 filme**
 - **sub-título**
-- **lista**
-- **item da lista**
-- **item da lista**
-- **item da lista**
-- **item da lista**
-- **item da lista**
-
-O conteúdo de cada elemento já se encontra em ordem no arquivo `index.html` presente nesta pasta.
+  - "3." **+ O título do seu top 3 filme**
+- **parágrafo**
+  - "Sinopse: " **+ A sinopse do seu top 3 filme**
 
 ### LEMBRE-SE DE IDENTAR O CÓDIGO 
 
 ---
 
-O resultado final será silimar a imagem abaixo:
+O resultado final será silimar (desconsiderando o conteúdo) a imagem abaixo:
 
-![página html do exercício resolvido](https://i.imgur.com/4JuP1cL.png)
+![página html do exercício resolvido](https://i.imgur.com/ZP8pTHQ.png)
 
 ---
 

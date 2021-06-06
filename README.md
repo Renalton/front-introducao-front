@@ -1,20 +1,14 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Nome da aula
+# Introdução ao front-end
 
 ## Exercícios de classe 🏫
 
-1. Exercício 1
-
-## Exercícios de casa 🏠
-2. Exercício 2
-
-## Exercícios extra 🌟
-3. Exercício 3
-
-# VERIFICAR CHECKLIST E TAGS
+1. Lista de supermercado
+2. Receita de lasanha
+3. Top 3 filmes favoritos
 
 Preencha a checklist para finalizar o exercício:
 -   [ ] Forkar o repositório
 
-###### tags: 
+###### tags: `módulo 1` `front-end` `HTML`
